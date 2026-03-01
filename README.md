@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hola, soy Simón
 
-<!--
-**Simon957411/Simon957411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ciencias de la computacionn  
+💻 Aprendiendo desarrollo de software y GitHub  
+🚀 Interesado en crear proyectos grandes como plataformas digitales  
+🌲 Scout y amante del crecimiento personal  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tecnologías que estoy aprendiendo
+
+- Java
+- Git & GitHub
+- Programación orientada a objetos
+
+---
+
+## 🎯 Objetivos
+
+- Convertirme en un desarrollador profesional
+- Crear mi propia plataforma de streaming
+- Seguir aprendiendo todos los días
+
+---
+
+✨ Gracias por visitar mi perfil
